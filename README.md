@@ -34,9 +34,9 @@ Demonstrar capacidade de:
 
 ## 📸 Visualizações da Análise
 
-- 📈 [Dashboard](./Imagens/dashboard.jpg)
-- 📊 [Slicer](./Imagens/dashboard.jpg)
-- 📊 [Tabela Dinâmica](./Imagens/tabeladinamica.jpg)
+- 📈 [Dashboard](./Imagens/Dashboard.jpg)
+- 📊 [Slicer](./Imagens/Slicer.jpg)
+- 📊 [Tabela Dinâmica](./Imagens/TabelaDinamica.jpg)
 
 ## 👨‍💻 Autor
 **David Souza Ribeiro**  
